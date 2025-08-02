@@ -5,11 +5,11 @@
 **Team Name:** Smart CCTV Team  
 **Project Name:** Smart CCTV  
 **Team Members:**
-- Meghana  
-- Trisha  
-- Bhuvana  
-- Harika  
-- Harini  
+- Meghana Reddimasu 
+- Trisha Sadupati
+- Bhuvana Puttala
+- Harika Shattukuri
+- Harini Pilli
 
 ---
 
